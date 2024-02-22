@@ -4,8 +4,7 @@ Implement a python program to determine whether the given number is an armstrong
 '''
 
 number = int(input("Enter a number : "))
-dup1 = number
-dup2 = number 
+duplicate = number 
 
 # counting the number of digits 
 snumber = str(number)
@@ -14,10 +13,10 @@ count = len(snumber)
 
 # finding the computation
 sum = 0
-while dup2>0:
-    rem = dup2%10
+while duplicate>0:
+    rem = duplicate%10
     sum += rem**count
-    dup2 = int(dup2/10)
+    duplicate = int(duplicate/10)
 
 # Evaluating the condition 
     
