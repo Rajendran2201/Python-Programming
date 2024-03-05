@@ -1,6 +1,6 @@
 '''
 
-Given a list of numbers. WQrite a program to turn every item of a list into its square
+Given a list of numbers. Write a program to turn every item of a list into its square
 
 '''
 
