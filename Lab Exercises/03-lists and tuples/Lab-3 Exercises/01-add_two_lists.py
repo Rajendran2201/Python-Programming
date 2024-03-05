@@ -25,7 +25,7 @@ print("Resultant list : " , sum_list)
 '''
 OUTPUT : 
 
-Resultant list :  [1, 9, 2, 8, 3, 7, 4, 6, 5, 4, 3, 2]
+Resultant list :  [1, 4, 2, 5, 3, 6, 4]
 
 
 '''
