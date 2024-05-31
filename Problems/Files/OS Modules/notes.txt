@@ -1,0 +1,11 @@
+------------------ OS MODULES ----------------
+
+
+1. os.rename(src, dst): Rename a file or directory from src to dst.
+2. os.remove(path): Remove (delete) the file at the given path.
+3. os.mkdir(path): Create a new directory at the given path.
+4. os.makedirs(name): Create a directory and all its parent directories if they do not
+   exist.
+5. os.rmdir(path): Remove (delete) the directory at the given path.
+6. os.getcwd(): Return the current working directory.
+7. os.chdir(path): Change the current working directory to the specified path.
